@@ -1,0 +1,13 @@
+<actions>
+    <!-- If chest has a action id insert the actionid, if the chest is a itemid and not a action id change it to:
+        <!-- Example -->
+            <!-- <action itemid="12345" event="script" value="quest1.lua"/> -->
+        <!-- -->
+  
+        <!-- Please insert item id or action id in the actions.xml -->
+    <!-- Fim --> 
+  
+    <!-- Thalles Vitor - Quest 1 -->
+        <action actionid="12345" event="script" value="quest1.lua"/>
+    <!-- Fim -->
+</actions>
